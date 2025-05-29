@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351626040735",
+    "project_id": "juevesponline",
+    "storage_bucket": "juevesponline.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351626040735:android:609c290be95587e59ad9aa",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZB6g9ut6Gq7vqH3wedKftLtBlECd8-Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
